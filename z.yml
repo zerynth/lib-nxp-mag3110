@@ -1,0 +1,13 @@
+---
+description: Driver for NXP MAG3110 magnetometer sensor
+fullname: lib.nxp.mag3110
+info:
+    chip_manufacturer: NXP
+    chip_name: MAG3110
+    name: Magnetometer Sensor
+    type: Sensor
+keywords:
+- nxp
+- magnetometer
+title: MAG3110 Magnetometer Sensor
+...

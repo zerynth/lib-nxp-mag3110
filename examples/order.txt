@@ -1,0 +1,4 @@
+#Nxp
+    ##MAG3110
+		get_values
+		triggered_measurement
